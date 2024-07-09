@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADV\\source\\repos\\ecomm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\data-table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\wwwroot\\js\\data-table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\shared\\jsbody.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\shared\\jsbody.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\wwwroot\\js\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\wwwroot\\js\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\bt-maxlength.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\wwwroot\\js\\bt-maxlength.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\avgrund.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\wwwroot\\js\\avgrund.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\data\\ecommcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\data\\ecommcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\ecomm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\ecomm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\shared\\sidebar_canvas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\shared\\sidebar_canvas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\shared\\setting_panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\shared\\setting_panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|c:\\users\\adv\\source\\repos\\ecomm\\ecomm\\migrations\\20240708183208_create new database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF900B6-8B34-4B1B-B6BD-387E65890511}|ecomm\\ecomm.csproj|solutionrelative:ecomm\\migrations\\20240708183208_create new database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 245,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "db.js",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\db.js",
+              "RelativeDocumentMoniker": "ecomm\\wwwroot\\js\\db.js",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\db.js",
+              "RelativeToolTip": "ecomm\\wwwroot\\js\\db.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T03:09:39.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data-table.js",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\data-table.js",
+              "RelativeDocumentMoniker": "ecomm\\wwwroot\\js\\data-table.js",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\data-table.js",
+              "RelativeToolTip": "ecomm\\wwwroot\\js\\data-table.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T03:09:34.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chart.js",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\chart.js",
+              "RelativeDocumentMoniker": "ecomm\\wwwroot\\js\\chart.js",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\chart.js",
+              "RelativeToolTip": "ecomm\\wwwroot\\js\\chart.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T03:09:30.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bt-maxLength.js",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\bt-maxLength.js",
+              "RelativeDocumentMoniker": "ecomm\\wwwroot\\js\\bt-maxLength.js",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\bt-maxLength.js",
+              "RelativeToolTip": "ecomm\\wwwroot\\js\\bt-maxLength.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T03:09:29.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "avgrund.js",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\avgrund.js",
+              "RelativeDocumentMoniker": "ecomm\\wwwroot\\js\\avgrund.js",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\wwwroot\\js\\avgrund.js",
+              "RelativeToolTip": "ecomm\\wwwroot\\js\\avgrund.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T03:09:28.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jsbody.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\jsbody.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Shared\\jsbody.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\jsbody.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Shared\\jsbody.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T19:01:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T18:42:12.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:16:02.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ecomm\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ecomm\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:29:58.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:44:12.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ecomm\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Models\\Category.cs",
+              "RelativeToolTip": "ecomm\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:20:25.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EcommContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Data\\EcommContext.cs",
+              "RelativeDocumentMoniker": "ecomm\\Data\\EcommContext.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Data\\EcommContext.cs",
+              "RelativeToolTip": "ecomm\\Data\\EcommContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:21:49.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Controllers\\AdminDashBoardController.cs",
+              "RelativeDocumentMoniker": "ecomm\\Controllers\\AdminDashBoardController.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Controllers\\AdminDashBoardController.cs",
+              "RelativeToolTip": "ecomm\\Controllers\\AdminDashBoardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:22:32.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\AdminDashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\AdminDashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\AdminDashBoard\\Index.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\AdminDashBoard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:22:41.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ecomm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ecomm\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:51:16.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240708183208_Create new database.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Migrations\\20240708183208_Create new database.cs",
+              "RelativeDocumentMoniker": "ecomm\\Migrations\\20240708183208_Create new database.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Migrations\\20240708183208_Create new database.cs",
+              "RelativeToolTip": "ecomm\\Migrations\\20240708183208_Create new database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:32:08.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ecomm.csproj",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\ecomm.csproj",
+              "RelativeDocumentMoniker": "ecomm\\ecomm.csproj",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\ecomm.csproj",
+              "RelativeToolTip": "ecomm\\ecomm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T18:22:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ecomm\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ecomm\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:21:14.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\_navbar.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Shared\\_navbar.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\_navbar.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Shared\\_navbar.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:25:59.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\footer.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Shared\\footer.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\footer.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Shared\\footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:29:34.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Program.cs",
+              "RelativeDocumentMoniker": "ecomm\\Program.cs",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Program.cs",
+              "RelativeToolTip": "ecomm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:37:10.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "sidebar_canvas.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\sidebar_canvas.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Shared\\sidebar_canvas.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\sidebar_canvas.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Shared\\sidebar_canvas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:27:56.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "setting_panel.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\setting_panel.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Shared\\setting_panel.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\setting_panel.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Shared\\setting_panel.cshtml",
+              "ViewState": "AQIAAGEAAAAAAAAAAAApwHQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:50:09.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:34:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:42:25.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ecomm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ecomm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:14:16.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\appsettings.json",
+              "RelativeDocumentMoniker": "ecomm\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\appsettings.json",
+              "RelativeToolTip": "ecomm\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T17:37:19.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ecomm\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ADV\\source\\repos\\ecomm\\ecomm\\appsettings.Development.json",
+              "RelativeToolTip": "ecomm\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T17:37:23.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

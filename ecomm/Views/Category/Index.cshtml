@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ecomm.Models.Category>
+@Html.Partial("Header")
+
+
+<div class="container-scroller">
+
+    @Html.Partial("_navbar")
+    <div class="container-fluid page-body-wrapper">
+        @Html.Partial("setting_panel")
+
+        @Html.Partial("sidebar_canvas")
+        <div class="main-panel">
+            <div class="content-wrapper">
+                <div class="page-header">
+                    <h3 class="page-title">
+                        Data table
+                    </h3>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="#">Tables</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Data table</li>
+                        </ol>
+                    </nav>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Data table</h4>
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="table-responsive">
+                                    <table id="order-listing" class="table">
+                                        <thead>
+                                            <tr>
+                                                <th>Category Id</th>
+                                                <th>Category Name</th>
+                                                <th></th>
+                                                <th></th>
+
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (var item in Model)
+                                            {
+                                                <tr>
+                                                    <td>@item.Cid</td>
+                                                    <td>@item.category</td>
+
+                                                    <td>
+                                                        <label class="badge badge-info">On hold</label>
+                                                    </td>
+                                                    <td>
+                                                        <button class="btn btn-outline-primary">View</button>
+                                                    </td>
+                                                </tr>
+                                            }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
